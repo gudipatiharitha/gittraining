@@ -3,12 +3,10 @@ Kishore:hello
 Swastik: @kishore .., How to pull changes from master branch to child branch?
 Kishore:rebase??
 Swastik: "Current branch branch1 is up to date." , but file in master branch has different content
-<<<<<<< HEAD
 Vishal:Hello
-=======
 Swastik: What happens when we commit without staging the files?
 Rishan:I tried it...they got commited :p
 Shanmukh: Hey!
 Himatej: hello.
 Swastik: I think when we use "git commit -a" , it automatically adds n commit , but when we commit with that "-a" , nothing will be commited if not staged
-it's okay bro >>>>>>> 5062051f91132d4e9d69661a069ceb5ed9f3a8e4
+Rishan:why are the temp files getting uploaded too while using smartgit??
