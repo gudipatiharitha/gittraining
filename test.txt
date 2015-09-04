@@ -1,2 +1,3 @@
 Swastik: Hi
 Kishore:hello
+Swastik: @kishore .., How to pull changes from master branch to child branch?
