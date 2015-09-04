@@ -4,3 +4,4 @@ Swastik: @kishore .., How to pull changes from master branch to child branch?
 Kishore:rebase??
 Swastik: "Current branch branch1 is up to date." , but file in master branch has different content
 Swastik: What happens when we commit without staging the files?
+Rishan:I tried it...they got commited :p
