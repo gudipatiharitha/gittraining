@@ -1,0 +1,23 @@
+Problem 1: When created two branches branch1 and branch2 from master branch and changed file in branch1, the file in branch2 got automatically updated. After this, when I tried to edit that file with vi, the following error came.
+
+E325: ATTENTION
+Found a swap file by the name ".swastik.txt.swp"
+          owned by: swastik   dated: Fri Sep  4 16:33:16 2015
+         file name: ~swastik/dev/gitTest/gittraining/swastik.txt
+          modified: no
+         user name: swastik   host name: swastik-Desktop
+        process ID: 15268 (still running)
+While opening file "swastik.txt"
+             dated: Fri Sep  4 16:35:22 2015
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r swastik.txt"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".swastik.txt.swp"
+    to avoid this message.
+
+Swap file ".swastik.txt.swp" already exists!
