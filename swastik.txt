@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+This is nothing but an useless text 22
+=======
 This is nothing but an useless text
+Another useless stuff
+>>>>>>> useless
