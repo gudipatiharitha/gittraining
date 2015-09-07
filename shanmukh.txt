@@ -1,3 +1,4 @@
 New file created.
 New text added.
 Added text in branch1.
+Added text in branch2.
