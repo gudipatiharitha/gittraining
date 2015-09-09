@@ -1,0 +1,244 @@
+*   f8459ee : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+|\  
+| * df0d360 : Added Log
+| *   148e702 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\  
+| * | 2ed9255 : updated
+* | | 1ece62a : "Adding some context in srujan.txt to see if changes are automatically updated in child braches if nano is used as editor
+| |/  
+|/|   
+* | 4b7e7d7 : first
+* | 9429d7f : added text in branch1
+* | 6a39bac : added text in branch2
+* | 60acf15 : added text in branch1
+* | 0f19c4f : some text added.
+|/  
+*   1cd07cd : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+|\  
+| * 94b5136 : Updated
+| * 1711959 : Updated
+| * d4a05f2 : changed in chat.txt
+| * f527f9c : removed fail.txt
+| *   80be30b : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\  
+| * | 95d5bc7 : first line
+* | | f8a3b74 : Adding my changes to WELOCOME.txt file
+| |/  
+|/|   
+* |   46c2a79 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+|\ \  
+| * \   d3221d1 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\ \  
+| | * \   d707ffe : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | |\ \  
+| | * \ \   8bb6baf : Merge branch 'branch'
+| | |\ \ \  
+| | | * | | 38ae893 : edits
+| | * | | |   033cb89 : Merge branch 'branch1'
+| | |\ \ \ \  
+| | | |_|_|/  
+| | |/| | |   
+| | | * | | 3f60bc2 : edit
+| | | * | | e5f287b : edit
+| | | |/ /  
+| | | * | 5802982 : edit
+| * | | |   ee32ecd : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\ \ \ \  
+| | | |_|/  
+| | |/| |   
+| | * | |   7954f95 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | |\ \ \  
+| | | |/ /  
+| | * | | ed0257e : Changes commting
+| * | | |   29c8816 : Merge branch 'edit'
+| |\ \ \ \  
+| | |_|/ /  
+| |/| | |   
+| | * | | 56332ae : Updated
+| * | | | 2201460 : Create doubts_swastik
+| |/ / /  
+| * | |   db9fc1d : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\ \ \  
+| | |/ /  
+| | * |   e53bc03 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining Commiting
+| | |\ \  
+| | | |/  
+| | | *   dfedbbe : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | | |\  
+| | | | *   c401f71 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | | | |\  
+| | | | * \   be1aba8 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | | | |\ \  
+| | | | * | | e137231 : a text file is created
+| | | * | | | 31d836f : Edited
+| | | | |_|/  
+| | | |/| |   
+| | | * | | 0b83992 : new msg
+| | | * | | 7479435 : new msg
+| | | | |/  
+| | | |/|   
+| | | * |   3fe63cc : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | | |\ \  
+| | | | * \   93b3648 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | | | |\ \  
+| | | | * \ \   523ee4b : Merge branch 'branch1'
+| | | | |\ \ \  
+| | | | | * | | f375d90 : useless
+| | | | * | | |   b4666ab : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | | | |\ \ \ \  
+| | | | | |/ / /  
+| | | | |/| | |   
+| | | | * | | | 875796e : master branch change
+| | | * | | | | 0bc3868 : nothin
+| | | | |/ / /  
+| | | |/| | |   
+| | * | | | | b1da44a : trying commit
+| | * | | | | 5a72761 : Trying commit once again
+| | * | | | | 8788497 : First commit by srujan
+| * | | | | | 7d3adc3 : Second Commit
+* | | | | | |   6fbbe02 : Merge branch 'child2'
+|\ \ \ \ \ \ \  
+| * | | | | | | f117cfe : ygsg
+* | | | | | | |   ddbe8ff : Merge branch 'child2'
+|\ \ \ \ \ \ \ \  
+| |/ / / / / / /  
+| * | | | | | | 8894595 : qw
+| * | | | | | | 1a5eb4a : qwe
+* | | | | | | | 054f336 : qwe
+|/ / / / / / /  
+* | | | | | | d150c10 : update
+| |_|_|_|/ /  
+|/| | | | |   
+* | | | | |   88b3f89 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+|\ \ \ \ \ \  
+| | |_|/ / /  
+| |/| | | |   
+| * | | | | 32cfa83 : Suggestion for rahul ;)
+* | | | | | c7db7e1 : updated
+|/ / / / /  
+* | | | |   c06f401 : hey Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+|\ \ \ \ \  
+| * | | | | c72bf52 : changed the file name
+| * | | | | a7e39f9 : hello
+| | |_|_|/  
+| |/| | |   
+* | | | |   78df405 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+|\ \ \ \ \  
+| |/ / / /  
+| * | | | eab1677 : updated
+| * | | | cc29c37 : welcomed new guy
+| * | | |   f5bc2a6 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\ \ \ \  
+| * \ \ \ \   c7a4cf7 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\ \ \ \ \  
+| | | |_|_|/  
+| | |/| | |   
+| * | | | | f17288a : abc
+| * | | | | 7aa8086 : update
+* | | | | | 1928de6 : ADD a NEW peace of CODE
+| |_|/ / /  
+|/| | | |   
+* | | | |   44bcb50 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+|\ \ \ \ \  
+| | |/ / /  
+| |/| | |   
+| * | | |   5062051 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\ \ \ \  
+| | * \ \ \   c872504 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | |\ \ \ \  
+| | * \ \ \ \   1f9cdc2 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining edit Conflicts: 	sarasani.txt
+| | |\ \ \ \ \  
+| | * | | | | | f231482 : edited
+| | * | | | | | ae87196 : asd
+| | | |_|/ / /  
+| | |/| | | |   
+| * | | | | |   03ee56c : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\ \ \ \ \ \  
+| | | |_|/ / /  
+| | |/| | | |   
+| | * | | | | ac1149d : Update chat.txt
+| | | |/ / /  
+| | |/| | |   
+| * | | | | d720321 : New file.
+| |/ / / /  
+| * | | | eb0e7c4 : updated
+| * | | |   fd8cfb9 : Merge remote-tracking branch 'origin/master'
+| |\ \ \ \  
+| | * \ \ \   38b22fe : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | |\ \ \ \  
+| | * | | | | ad57dec : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | * | | | |   33e9a3a : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | |\ \ \ \ \  
+| | * | | | | | ad19d9b : Created a file
+| | * | | | | |   5bafbc9 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | |\ \ \ \ \ \  
+| | * | | | | | | 7430c9a : A line is added
+| | * | | | | | |   6c15484 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| | |\ \ \ \ \ \ \  
+| | * \ \ \ \ \ \ \   3b7b22b : Edited a line.
+| | |\ \ \ \ \ \ \ \  
+| | * | | | | | | | | eccd0db : Added a new line.
+| * | | | | | | | | |   71b3c9d : Merge remote-tracking branch 'origin/master'
+| |\ \ \ \ \ \ \ \ \ \  
+| | | |_|_|_|_|/ / / /  
+| | |/| | | | | | | |   
+| | * | | | | | | | | 0634bb6 : Update chat.txt
+| | * | | | | | | | | 5847ae2 : Update rahul.txt
+| | * | | | | | | | | 1c390c5 : Added swastik.txt
+| * | | | | | | | | | 328becf : update
+| |/ / / / / / / / /  
+| * | | | | | | | | 1c9dca2 : Update chat.txt
+| * | | | | | | | |   29c2564 : Merge remote-tracking branch 'origin/master'
+| |\ \ \ \ \ \ \ \ \  
+| | | |_|_|_|_|_|_|/  
+| | |/| | | | | | |   
+| * | | | | | | | | f02db90 : vg
+* | | | | | | | | | 3330046 : This is first commit
+* | | | | | | | | | 5447775 : commit has been made
+| |/ / / / / / / /  
+|/| | | | | | | |   
+* | | | | | | | | a2b9c59 : Update chat.txt
+| |_|_|_|_|_|/ /  
+|/| | | | | | |   
+* | | | | | | |   39316a9 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+|\ \ \ \ \ \ \ \  
+| |/ / / / / / /  
+| * | | | | | |   e077321 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\ \ \ \ \ \ \  
+| | | |_|_|_|/ /  
+| | |/| | | | |   
+| * | | | | | | 9d70c51 : Updated
+* | | | | | | |   f35be25 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+|\ \ \ \ \ \ \ \  
+| | |/ / / / / /  
+| |/| | | | | |   
+| * | | | | | | 379a64a : updated
+| | |_|_|_|_|/  
+| |/| | | | |   
+* | | | | | |   6ceb9f4 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+|\ \ \ \ \ \ \  
+| |/ / / / / /  
+| * | | | | |   3444dd3 : Merge branch 'master' of https://github.com/gudipatiharitha/gittraining
+| |\ \ \ \ \ \  
+| | * | | | | | d89a847 : Rename test.txt to chat.txt
+| | * | | | | | 9b31090 : Update test.txt
+| | | |_|_|_|/  
+| | |/| | | |   
+| | * | | | | b66e566 : Update test.txt
+| | * | | | | 71fbc45 : Update test.txt
+| | * | | | | 9bb6c3e : Update test.txt
+| | |/ / / /  
+| | * | | | 9644754 : Update test.txt
+| | | |_|/  
+| | |/| |   
+| | * | | 8e79cd6 : Create test.txt
+| | | |/  
+| | |/|   
+| | * | eee963a : added line2
+| | |/  
+| * | 829ea8f : First Commit
+| |/  
+* | a59dc13 : 2nd edit
+* | 1fd6999 : 1st edity
+|/  
+* 5937fc7 : First commit
